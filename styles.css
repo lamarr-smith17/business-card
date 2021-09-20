@@ -1,1 +1,11 @@
-ECHO is on.
+/*Global Styles */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 1366vh;
+    width: 768vh;
+    background-image: url();
+}

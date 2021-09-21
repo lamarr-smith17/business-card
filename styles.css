@@ -29,7 +29,7 @@ body {
     width: 100%;
     background: url(/imgs/background.svg) no-repeat center center fixed;
     background-size: cover;
-
+    overflow: hidden;
 }
 
 
@@ -104,4 +104,9 @@ body {
 }
 .twitter {
     padding-top: 20px;
+}
+
+/* Bottom Content */
+.footer-wrapper {
+    padding-bottom: 700px;
 }

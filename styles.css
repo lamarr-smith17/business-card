@@ -42,6 +42,10 @@ body {
     
 }
 
+.b1 {
+    border: 1px solid #000000;
+}
+
 /*Main Content */
 .container-one {
     padding: 50px;
@@ -107,6 +111,17 @@ body {
     padding-left: 50px;
     gap: 20px;
     color: #FFFFFF;
+}
+
+.allie-img {
+    grid-area: b;
+    padding-left: 200px;
+    
+}
+
+.social-links {
+    grid-area: c;
+    padding-left:85%;
 }
 .social-text {
     color: #FFFFFF;
